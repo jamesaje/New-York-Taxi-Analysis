@@ -1,4 +1,4 @@
-# New-York-Taxi-Analysis
+# New York Taxi fare prediction
 
 ## Problem Definition
 Predict the average money spent on taxi rides for each region of New York per given day and hour.
