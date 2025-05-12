@@ -82,17 +82,17 @@ Predict the **average money spent on taxi rides per region**, for each **day and
 ### Visualizations
 - Scatter plots comparing predicted vs. actual fares.
 
-![True vs Predicted Value for tuned random forest model](images/true_vs_predicted.png)
+![True vs Predicted Value for tuned random forest model](images/true_vs_pred.png)
 
-### 💼 Business Implications
+### Business Implications
 - Helps taxi operators optimize pricing and fleet management.
 - Supports city planners in understanding demand patterns.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Integrate real-time traffic/congestion data.
 - Extend analysis to include multiple months or years.
-- Deploy model as an API for real-time fare predictions.
+- There is room for further improvement of the model.
 
 
