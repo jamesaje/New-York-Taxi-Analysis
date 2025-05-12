@@ -75,7 +75,7 @@ Predict the **average money spent on taxi rides per region**, for each **day and
 | Decision Tree (All Features) | 9.876 | 14.963 | 0.211 |
 | Random Forest | 7.663 | 13.600 | 0.348 |
 | Gradient Boosting | 9.525 | 14.184 | 0.291 |
-| Tuned Random Forest | **7.348** | **12.926** | **0.411** |
+| Tuned Random Forest | 7.348 | 12.926 | 0.411 |
 
 ---
 
