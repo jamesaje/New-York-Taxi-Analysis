@@ -72,10 +72,10 @@ Predict the **average money spent on taxi rides per region**, for each **day and
 | Model | MAE | RMSE | R² Score |
 |-------|-----|------|----------|
 | Benchmark (Decision Tree) | 9.778 | 14.739 | 0.225 |
-| Decision Tree (All Features) | 8.534 | 14.011 | 0.308 |
-| Random Forest | 7.426 | 13.212 | 0.385 |
-| Gradient Boosting | 8.388 | 13.378 | 0.369 |
-| Tuned Random Forest | **7.337** | **12.662** | **0.435** |
+| Decision Tree (All Features) | 9.876 | 14.963 | 0.211 |
+| Random Forest | 7.663 | 13.600 | 0.348 |
+| Gradient Boosting | 9.525 | 14.184 | 0.291 |
+| Tuned Random Forest | **7.446** | **12.792** | **0.423** |
 
 ---
 
